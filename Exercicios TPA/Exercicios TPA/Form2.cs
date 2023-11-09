@@ -64,5 +64,10 @@ namespace Exercicios_TPA
             frmprincipal pri = new frmprincipal();
             pri.Show();
         }
+
+        private void txtnumero_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

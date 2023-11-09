@@ -40,11 +40,10 @@ namespace Exercicios_TPA
             // 
             // btnvoltar
             // 
-            this.btnvoltar.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnvoltar.Location = new System.Drawing.Point(579, 589);
-            this.btnvoltar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnvoltar.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnvoltar.Location = new System.Drawing.Point(618, 384);
             this.btnvoltar.Name = "btnvoltar";
-            this.btnvoltar.Size = new System.Drawing.Size(196, 49);
+            this.btnvoltar.Size = new System.Drawing.Size(131, 32);
             this.btnvoltar.TabIndex = 23;
             this.btnvoltar.Text = "Voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
@@ -52,11 +51,10 @@ namespace Exercicios_TPA
             // 
             // btnlimpar
             // 
-            this.btnlimpar.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlimpar.Location = new System.Drawing.Point(328, 589);
-            this.btnlimpar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnlimpar.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnlimpar.Location = new System.Drawing.Point(219, 383);
             this.btnlimpar.Name = "btnlimpar";
-            this.btnlimpar.Size = new System.Drawing.Size(196, 49);
+            this.btnlimpar.Size = new System.Drawing.Size(131, 32);
             this.btnlimpar.TabIndex = 22;
             this.btnlimpar.Text = "Limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
@@ -65,24 +63,22 @@ namespace Exercicios_TPA
             // lblre
             // 
             this.lblre.AutoSize = true;
-            this.lblre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblre.Location = new System.Drawing.Point(99, 269);
-            this.lblre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblre.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblre.Location = new System.Drawing.Point(44, 173);
             this.lblre.Name = "lblre";
-            this.lblre.Size = new System.Drawing.Size(79, 29);
+            this.lblre.Size = new System.Drawing.Size(61, 22);
             this.lblre.TabIndex = 21;
             this.lblre.Text = "label2";
             this.lblre.Visible = false;
             // 
             // btncalcular
             // 
-            this.btncalcular.Font = new System.Drawing.Font("Arial Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncalcular.Location = new System.Drawing.Point(72, 589);
-            this.btncalcular.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btncalcular.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncalcular.Location = new System.Drawing.Point(48, 383);
             this.btncalcular.Name = "btncalcular";
-            this.btncalcular.Size = new System.Drawing.Size(186, 54);
+            this.btncalcular.Size = new System.Drawing.Size(124, 35);
             this.btncalcular.TabIndex = 20;
-            this.btncalcular.Text = "calcular";
+            this.btncalcular.Text = "Calcular";
             this.btncalcular.UseVisualStyleBackColor = true;
             this.btncalcular.Click += new System.EventHandler(this.btncalcular_Click);
             // 
@@ -90,37 +86,35 @@ namespace Exercicios_TPA
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(504, 15);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(336, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(150, 34);
+            this.label1.Size = new System.Drawing.Size(102, 22);
             this.label1.TabIndex = 19;
             this.label1.Text = "TABUADA";
             // 
             // txtnumero
             // 
-            this.txtnumero.Location = new System.Drawing.Point(279, 166);
-            this.txtnumero.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtnumero.Location = new System.Drawing.Point(214, 107);
             this.txtnumero.Name = "txtnumero";
-            this.txtnumero.Size = new System.Drawing.Size(148, 26);
+            this.txtnumero.Size = new System.Drawing.Size(100, 20);
             this.txtnumero.TabIndex = 18;
             // 
             // lblnumero
             // 
             this.lblnumero.AutoSize = true;
-            this.lblnumero.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblnumero.Location = new System.Drawing.Point(66, 162);
-            this.lblnumero.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblnumero.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblnumero.Location = new System.Drawing.Point(44, 105);
             this.lblnumero.Name = "lblnumero";
-            this.lblnumero.Size = new System.Drawing.Size(210, 33);
+            this.lblnumero.Size = new System.Drawing.Size(164, 22);
             this.lblnumero.TabIndex = 17;
             this.lblnumero.Text = "Digite um número:";
             // 
             // frmex11for
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.lblre);
@@ -128,7 +122,6 @@ namespace Exercicios_TPA
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtnumero);
             this.Controls.Add(this.lblnumero);
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "frmex11for";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Exercicio 1 for";

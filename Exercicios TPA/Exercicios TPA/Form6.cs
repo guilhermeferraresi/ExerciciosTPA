@@ -77,5 +77,10 @@ namespace Exercicios_TPA
             frmprincipal principal = new frmprincipal();
             principal.Show();
         }
+
+        private void frmex12while_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

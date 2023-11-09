@@ -40,20 +40,18 @@ namespace Exercicios_TPA
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(458, 134);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.textBox1.Location = new System.Drawing.Point(299, 101);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(148, 26);
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 12;
             // 
             // lblresult
             // 
             this.lblresult.AutoSize = true;
             this.lblresult.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblresult.Location = new System.Drawing.Point(100, 264);
-            this.lblresult.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblresult.Location = new System.Drawing.Point(67, 172);
             this.lblresult.Name = "lblresult";
-            this.lblresult.Size = new System.Drawing.Size(79, 29);
+            this.lblresult.Size = new System.Drawing.Size(51, 20);
             this.lblresult.TabIndex = 11;
             this.lblresult.Text = "label2";
             this.lblresult.Visible = false;
@@ -62,20 +60,18 @@ namespace Exercicios_TPA
             // 
             this.lbldigite.AutoSize = true;
             this.lbldigite.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbldigite.Location = new System.Drawing.Point(100, 134);
-            this.lbldigite.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbldigite.Location = new System.Drawing.Point(67, 101);
             this.lbldigite.Name = "lbldigite";
-            this.lbldigite.Size = new System.Drawing.Size(340, 29);
+            this.lbldigite.Size = new System.Drawing.Size(226, 20);
             this.lbldigite.TabIndex = 10;
             this.lbldigite.Text = "Digite uma temperatura em C°:";
             // 
             // btnlimpar
             // 
             this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlimpar.Location = new System.Drawing.Point(276, 497);
-            this.btnlimpar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnlimpar.Location = new System.Drawing.Point(208, 383);
             this.btnlimpar.Name = "btnlimpar";
-            this.btnlimpar.Size = new System.Drawing.Size(123, 45);
+            this.btnlimpar.Size = new System.Drawing.Size(131, 32);
             this.btnlimpar.TabIndex = 9;
             this.btnlimpar.Text = "Limpar";
             this.btnlimpar.UseVisualStyleBackColor = true;
@@ -84,10 +80,9 @@ namespace Exercicios_TPA
             // btnvoltar
             // 
             this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnvoltar.Location = new System.Drawing.Point(437, 497);
-            this.btnvoltar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnvoltar.Location = new System.Drawing.Point(617, 383);
             this.btnvoltar.Name = "btnvoltar";
-            this.btnvoltar.Size = new System.Drawing.Size(116, 45);
+            this.btnvoltar.Size = new System.Drawing.Size(131, 32);
             this.btnvoltar.TabIndex = 8;
             this.btnvoltar.Text = "Voltar";
             this.btnvoltar.UseVisualStyleBackColor = true;
@@ -96,10 +91,9 @@ namespace Exercicios_TPA
             // btnclacular
             // 
             this.btnclacular.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnclacular.Location = new System.Drawing.Point(102, 497);
-            this.btnclacular.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnclacular.Location = new System.Drawing.Point(71, 383);
             this.btnclacular.Name = "btnclacular";
-            this.btnclacular.Size = new System.Drawing.Size(119, 45);
+            this.btnclacular.Size = new System.Drawing.Size(131, 32);
             this.btnclacular.TabIndex = 7;
             this.btnclacular.Text = "Calcular";
             this.btnclacular.UseVisualStyleBackColor = true;
@@ -109,17 +103,19 @@ namespace Exercicios_TPA
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(374, 51);
+            this.lblTitulo.Location = new System.Drawing.Point(284, 34);
+            this.lblTitulo.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(302, 32);
+            this.lblTitulo.Size = new System.Drawing.Size(206, 24);
             this.lblTitulo.TabIndex = 13;
             this.lblTitulo.Text = "Conversor C° para F°";
             // 
             // frmex12do
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.lblresult);
@@ -127,7 +123,6 @@ namespace Exercicios_TPA
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.btnclacular);
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "frmex12do";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Exercício 12 Do";
