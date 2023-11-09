@@ -1,0 +1,38 @@
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.AssemblyReference.cache
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmprincipal.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.Properties.Resources.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.GenerateResource.cache
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.CoreCompileInputs.cache
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13while.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\bin\Debug\Exercicios TPA.exe.config
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\bin\Debug\Exercicios TPA.exe
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\bin\Debug\Exercicios TPA.pdb
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios TPA.exe
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios TPA.pdb
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11do.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11for.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12while.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12do.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12for.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13w.resources
+T:\1DS\EDUARDO FERREIRA E GUILHERME FERRARESI\TPA\Exercicios TPA\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13do.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\bin\Debug\Exercicios TPA.exe.config
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\bin\Debug\Exercicios TPA.exe
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\bin\Debug\Exercicios TPA.pdb
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.AssemblyReference.cache
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmprincipal.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13w.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13while.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11do.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex11for.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12while.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12do.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex12for.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.frmex13do.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios_TPA.Properties.Resources.resources
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.GenerateResource.cache
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios TPA.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios TPA.exe
+C:\Users\55119\OneDrive\Atividades ETEC\TPA\ExercicioTpa\Exercicios TPA\obj\Debug\Exercicios TPA.pdb
